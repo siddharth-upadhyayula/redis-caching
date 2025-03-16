@@ -1,4 +1,4 @@
-package com.techie.springbootrediscache;
+package com.sidupadhyayula.springbootrediscache;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

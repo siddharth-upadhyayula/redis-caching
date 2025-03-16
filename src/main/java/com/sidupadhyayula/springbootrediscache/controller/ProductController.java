@@ -1,7 +1,7 @@
-package com.techie.springbootrediscache.controller;
+package com.sidupadhyayula.springbootrediscache.controller;
 
-import com.techie.springbootrediscache.dto.ProductDto;
-import com.techie.springbootrediscache.service.ProductService;
+import com.sidupadhyayula.springbootrediscache.dto.ProductDto;
+import com.sidupadhyayula.springbootrediscache.service.ProductService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

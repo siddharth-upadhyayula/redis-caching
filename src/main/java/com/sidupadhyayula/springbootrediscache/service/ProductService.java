@@ -1,8 +1,8 @@
-package com.techie.springbootrediscache.service;
+package com.sidupadhyayula.springbootrediscache.service;
 
-import com.techie.springbootrediscache.dto.ProductDto;
-import com.techie.springbootrediscache.entity.Product;
-import com.techie.springbootrediscache.repository.ProductRepository;
+import com.sidupadhyayula.springbootrediscache.dto.ProductDto;
+import com.sidupadhyayula.springbootrediscache.entity.Product;
+import com.sidupadhyayula.springbootrediscache.repository.ProductRepository;
 import org.springframework.stereotype.Service;
 
 @Service

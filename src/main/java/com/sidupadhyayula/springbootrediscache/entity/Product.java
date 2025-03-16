@@ -1,4 +1,4 @@
-package com.techie.springbootrediscache.entity;
+package com.sidupadhyayula.springbootrediscache.entity;
 
 import jakarta.persistence.*;
 

@@ -1,4 +1,4 @@
-package com.techie.springbootrediscache.dto;
+package com.sidupadhyayula.springbootrediscache.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Positive;
