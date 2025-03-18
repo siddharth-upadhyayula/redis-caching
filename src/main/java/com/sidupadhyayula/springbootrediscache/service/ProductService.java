@@ -11,6 +11,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class ProductService {
 
+    public static final String PRODUCT_CACHE = "products";
     private final ProductRepository productRepository;
 
 
